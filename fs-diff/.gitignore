@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.snap.json
+coverage/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
