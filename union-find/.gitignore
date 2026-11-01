@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE directories
+.vscode/
+.idea/
+
+# Logs and cache
+*.log
+*.tsbuildinfo
+.vitest-cache/
+
